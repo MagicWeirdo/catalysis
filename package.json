@@ -1,0 +1,32 @@
+{
+  "name": "catalysis",
+  "version": "1.0.2",
+  "description": "A Node.js based web framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MagicWeirdo/catalysis.git"
+  },
+  "keywords": [
+    "catalysis",
+    "web framework"
+  ],
+  "bugs": {
+    "email": "oliver_hsu1996@yahoo.com"
+  },
+  "author": "MagicWeirdo <oliver_hsu1996@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "emailjs": "^1.0.8",
+    "markdown-it": "^8.2.2",
+    "mime": "^1.3.4",
+    "multiparty": "^4.1.2",
+    "orm": "^3.2.2",
+    "path-to-regexp": "^1.7.0",
+    "socket.io": "^1.7.3"
+  }
+}
